@@ -1,0 +1,1 @@
+3D-homology model of the extracellular domain of MapZ of <i>S. suis</i> based on structures of the pneumococcal protein. Homology modeling was performed with UCSF CHIMERA. The prediction of the MapZ protein of <i>S. suis</i> is shown in grey and the two known subdomain structures of the extracellular domain of pneumococcal MapZ in green (2nd9.pdb) and red (2nda.pdb).

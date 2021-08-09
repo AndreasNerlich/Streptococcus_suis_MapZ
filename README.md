@@ -9,6 +9,8 @@ This repository contains supplementary data and code related to the manuscript "
 
 [Supplementary_Movie](Supplementary_Movie) contains the supplementary movie of a 3D-homology model of the extracellular domain of MapZ of <i>S. suis</i>.
 
+----
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a

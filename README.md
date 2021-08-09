@@ -1,7 +1,7 @@
 # <i>Streptococcus suis</i> MapZ
 This repository contains supplementary data and code related to the manuscript "Identification and characterization of the cell division protein MapZ of <i>Streptococcus suis</i>". 
 
-![Graphical Abstract](Images/Graphical_Abstract_SSU0375.png]
+![Graphical Abstract](https://github.com/AndreasNerlich/Streptococcus_suis_MapZ/blob/main/Images/Graphical_Abstract_SSU0375.png]
 
 [Notebooks_Microscopic_Analysis](Notebooks_Microscopic_Analysis) contains the script for training a [2D StarDist](https://github.com/stardist/stardist) model using phase contrast images of <i>S. suis</i> and and the script for prediction of masks and determination of morphological parameters using these masks.
 

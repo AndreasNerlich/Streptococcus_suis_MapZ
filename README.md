@@ -1,5 +1,5 @@
 # <i>Streptococcus suis</i> MapZ
-This repository contains supplementary data and code related to the manuscript "Identification and characterization of the cell division protein MapZ of <i>Streptococcus suis</i>". 
+This repository contains supplementary data and code related to the manuscript "Identification and characterization of the cell division protein MapZ of <i>Streptococcus suis</i>" published in MicrobiologyOPEN (https://doi.org/10.1002/mbo3.1234). 
 
 ![Graphical Abstract](https://github.com/AndreasNerlich/Streptococcus_suis_MapZ/blob/main/Images/Graphical_Abstract_SSU0375.png)
 

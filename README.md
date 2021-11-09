@@ -9,6 +9,19 @@ This repository contains supplementary data and code related to the manuscript "
 
 [Supplementary_Movie](Supplementary_Movie) contains the supplementary movie of a 3D-homology model of the extracellular domain of MapZ of <i>S. suis</i>.
 
+## How to cite 
+```bibtex
+@Article{pmid34713609,
+   Author="Dresen, M.  and Rohde, M.  and Arenas, J.  and de Greeff, A.  and Nerlich, A.  and Valentin-Weigand, P. ",
+   Title="{Identification and characterization of the cell division protein MapZ from Streptococcus suis}",
+   Journal="Microbiologyopen",
+   Year="2021",
+   Volume="10",
+   Number="5",
+   Pages="e1234",
+   Month="Oct"
+}
+
 ----
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
